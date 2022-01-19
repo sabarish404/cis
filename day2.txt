@@ -1,0 +1,1 @@
+This is my second day of project on git via cmd
